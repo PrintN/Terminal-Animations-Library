@@ -1,6 +1,6 @@
 # Terminal Animations Library
 Welcome to the **Terminal Animations Library**! This repository is a collection of terminal-based animations implemented in Python. It's designed to provide a simple way to play animations directly from your terminal.
-<img src="" alt="Terminal Animations" height="400" width="600" />
+<img src="https://github.com/user-attachments/assets/25719e2f-c081-4e46-8e83-82d3b3955fd5" alt="Terminal Animations" height="500" width="600" />
 
 ## Do You Want to Add a Terminal Animation?
 
